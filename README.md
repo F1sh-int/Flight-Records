@@ -5,5 +5,5 @@
 - [FIRE 505 and 395 Flight Mission (01/20/2025)](FlightDataBase/FIRE505_FIRE395_MD_520MG_02_20_2024.pdf)
 
 ### Daily Updates (Even if not sometimes)
-[Jan - 21 - 2025](DailyUpdates/Jan-21-2025Flights.md)
-[Jan - 22 - 2025](DailyUpdates/Jan-22-2025Flights.md)
+- [Jan - 21 - 2025](DailyUpdates/Jan-21-2025Flights.md)
+- [Jan - 22 - 2025](DailyUpdates/Jan-22-2025Flights.md)
