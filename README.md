@@ -7,3 +7,5 @@
 ### Daily Updates (Even if not sometimes)
 - [Jan - 21 - 2025](DailyUpdates/Jan-21-2025Flights.md)
 - [Jan - 22 - 2025](DailyUpdates/Jan-22-2025Flights.md)
+- [Jan - 23 - 2025](DailyUpdates/Jan-23-2025Flights.md)
+- [Jan - 24 - 2025](DailyUpdates/Jan-24-2025Flights.md)
